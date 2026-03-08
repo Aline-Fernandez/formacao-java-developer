@@ -3,7 +3,7 @@
 # ☕ Formação Java Developer - DIO
 
 <p>
-  <img src="https://img.shields.io/badge/Status-Em%20Progresso-critical?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Em%20Progresso-yellow?style=for-the-badge" alt="Status" />
   <img src="https://img.shields.io/badge/Plataforma-DIO-orange?style=for-the-badge" alt="Plataforma" />
   <img src="https://img.shields.io/badge/Linguagem-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
