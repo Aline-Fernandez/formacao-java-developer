@@ -1,6 +1,8 @@
+<img src="https://assets.dio.me/KIwdxM7_x0DPiyrnNEBcio7DYZDqtaSz2G4OPaSsLgs/f:webp/h:120/q:80/L3RyYWNrcy9kYTYwNDFhOS04MGVmLTQwOWUtYmQ1MC01ZTdiZTRkZmFkZjYucG5n">
+
 # ☕ Formação Java Developer - DIO
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Status-Em%20Progresso-critical?style=for-the-badge" alt="Status" />
   <img src="https://img.shields.io/badge/Plataforma-DIO-orange?style=for-the-badge" alt="Plataforma" />
   <img src="https://img.shields.io/badge/Linguagem-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -41,8 +43,8 @@ Cada desafio abaixo representa a aplicação prática dos módulos estudados:
 
 | Desafio | Descrição | Status |
 | :--- | :--- | :---: |
-| **Conta Banco** | Simulação de conta bancária via terminal | [Em breve]() |
-| **Modelagem iPhone** | Desafio de POO e Diagramação UML | [Em breve]() |
+| **Conta Banco** | Simulação de conta bancária via terminal | [Em breve] |
+| **Modelagem iPhone** | Desafio de POO e Diagramação UML | [Em breve] |
 | **Banco Digital** | Aplicação de conceitos avançados de POO | [Em breve] |
 | **API RESTful** | Construção de API com Spring Boot | [Em breve] |
 
