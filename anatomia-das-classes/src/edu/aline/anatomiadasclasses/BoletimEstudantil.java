@@ -1,4 +1,4 @@
-package anatomia.das.classes;
+package edu.aline.anatomiadasclasses;
 
 public class BoletimEstudantil {
     public static void main(String[] args) {

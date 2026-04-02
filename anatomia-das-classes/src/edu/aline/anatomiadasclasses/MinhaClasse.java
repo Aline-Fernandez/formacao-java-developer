@@ -1,4 +1,4 @@
-package anatomia.das.classes;
+package edu.aline.anatomiadasclasses;
 
 public class MinhaClasse {
 
