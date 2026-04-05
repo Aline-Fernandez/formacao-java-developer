@@ -2,7 +2,7 @@ package edu.aline.anatomiadasclasses;
 
 public class MinhaClasse {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
         String primeiroNome = "Aline";
         String segundoNome = "Fernandes";
         String nomeCompleto = nomeCompleto(primeiroNome, segundoNome);

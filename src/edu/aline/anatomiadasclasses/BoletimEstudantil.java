@@ -1,7 +1,7 @@
 package edu.aline.anatomiadasclasses;
 
 public class BoletimEstudantil {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
 
         int mediaFinal = 6;
         if (mediaFinal < 6) {
