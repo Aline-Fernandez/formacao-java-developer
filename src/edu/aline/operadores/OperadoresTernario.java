@@ -1,6 +1,7 @@
 package edu.aline.operadores;
 
 public class OperadoresTernario {
+
     public static void main(String[] args) {
         int a, b;
 
